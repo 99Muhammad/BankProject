@@ -8,6 +8,8 @@ namespace ClientsUsers_DataAccessLayer
 {
     public class clsDataAccessSettings
     {
+
+
         public static string connectionString = "Server=.;Database=BankDB;User Id =sa;Password=sa123456";
     }
 }
